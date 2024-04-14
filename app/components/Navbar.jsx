@@ -7,7 +7,7 @@ export default function Navbar() {
 
         <Link className="text-white font-bold" href={'/'}>NEXT CRUD APP</Link>
 
-        <Link className="text-white p-2" href={'/addTask'}>Add Task</Link>
+        <Link className="text-black p-2 bg-green-300"  href={'/addTask'}>Add Task</Link>
     </nav>    
     
     )
